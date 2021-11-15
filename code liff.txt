@@ -1,0 +1,196 @@
+{"line" : {
+  "type": "flex",
+  "altText": "this is a flex message",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "BOT STICKER LTH",
+            "weight": "bold",
+            "wrap": true,
+            "align": "center",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "ลดราคาไทยและต่างประเทศ",
+            "margin": "md",
+            "color": "#ffffff77",
+            "wrap": true,
+            "align": "center",
+            "size": "lg"
+          }
+        ],
+        "margin": "md"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://sv1.picz.in.th/images/2021/08/04/2qQv8n.png",
+                "aspectMode": "cover",
+                "size": "full",
+                "animated": true
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "100px",
+            "height": "100px",
+            "borderWidth": "2px",
+            "borderColor": "#ffffff"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [],
+                "wrap": true,
+                "text": "ข้อความตัวหนา",
+                "weight": "bold",
+                "align": "center",
+                "size": "lg",
+                "color": "#ffffff77"
+              },
+              {
+                "type": "text",
+                "text": "hello, world",
+                "wrap": true,
+                "align": "center",
+                "color": "#ffffff77"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Click",
+                    "color": "#000000",
+                    "align": "center"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md",
+                "borderWidth": "3px",
+                "borderColor": "#f9992b",
+                "cornerRadius": "md",
+                "backgroundColor": "#f0f56e",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px"
+      },
+      {
+        "type": "separator"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://sv1.picz.in.th/images/2021/08/04/2qQv8n.png",
+                    "aspectMode": "cover",
+                    "size": "full",
+                    "animated": true
+                  }
+                ],
+                "cornerRadius": "100px",
+                "width": "100px",
+                "height": "100px",
+                "borderWidth": "2px",
+                "borderColor": "#ffffff"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "contents": [],
+                    "wrap": true,
+                    "text": "ข้อความตัวหนา",
+                    "weight": "bold",
+                    "align": "center",
+                    "size": "lg",
+                    "color": "#ffffff77"
+                  },
+                  {
+                    "type": "text",
+                    "text": "hello, world",
+                    "wrap": true,
+                    "align": "center",
+                    "color": "#ffffff77"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Click",
+                        "color": "#000000",
+                        "align": "center"
+                      }
+                    ],
+                    "spacing": "sm",
+                    "margin": "md",
+                    "borderWidth": "3px",
+                    "borderColor": "#00000055",
+                    "cornerRadius": "md",
+                    "backgroundColor": "#26ca4d",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "http://linecorp.com/"
+                    }
+                  }
+                ]
+              }
+            ],
+            "spacing": "xl",
+            "paddingAll": "20px"
+          }
+        ],
+        "paddingAll": "0px",
+        "backgroundColor": "#4474bf"
+      }
+    ],
+    "paddingAll": "5px",
+    "backgroundColor": "#4474bf"
+  }
+}
+}
+}
